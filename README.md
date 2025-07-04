@@ -3,7 +3,9 @@
 > **Web Interoperable Linked Knowledge**  
 > A pure command-line platform that treats AI agents as modular, composable "packages"—installable, versioned, and linkable—within a familiar, scriptable, and offline-capable CLI environment.
 
-I'd like to thank libre chat, claude code, gemini cli and cursor for bringing this totally not AI into existence with me in the drivers seat.
+I'd like to thank libre chat, claude code, gemini cli and cursor for bringing this totally not AI slop into existence with me in the drivers seat.
+
+Also the chances of someone else doing a better of this before me is pretty high. I'm poor and the token cost to build this with an actual good model (claude-code) honestly makes sweat. I doubt they weren't higher than me when I thought this out though.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -12,7 +14,7 @@ I'd like to thank libre chat, claude code, gemini cli and cursor for bringing th
 
 ## 🚀 What is Wilk?
 
-Wilk fundamentally changes how developers interact with and leverage AI. Moving beyond proprietary UIs and cumbersome frameworks, Wilk provides a **declarative operating system** for building, managing, and sharing intelligent agents and complex AI workflows directly from the terminal.
+Wilk fundamentally changes how humans interact with and leverage AI. Moving beyond proprietary UIs and cumbersome frameworks, Wilk provides a **declarative operating system** for building, managing, and sharing intelligent agents and complex AI workflows directly from the terminal.
 
 **Think of it as:**
 
