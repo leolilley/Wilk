@@ -60,9 +60,9 @@ _Focused utility but lacking multi-agent orchestration, workflow composition, an
 💭 Show agent reasoning? [y/N]: y
 ┌─ Agent Reasoning ───────────────────────────────────────────────────┐
 │ I need to research quantum computing developments by:               │
-│ 1. Searching for recent papers and announcements                   │
+│ 1. Searching for recent papers and announcements                    │
 │ 2. Analyzing technical significance                                 │
-│ 3. Synthesizing findings into accessible explanation              │
+│ 3. Synthesizing findings into accessible explanation                │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
