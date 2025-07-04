@@ -5,7 +5,7 @@
 
 I'd like to thank libre chat, claude code, gemini cli and cursor for bringing this totally not AI slop into existence with me in the drivers seat.
 
-Also the chances of someone else doing a better of this before me is pretty high. I'm poor and the token cost to build this with an actual good model (claude-code) honestly makes sweat. I doubt they weren't higher than me when I thought this out though.
+Also the chances of someone else doing a better of this before me is pretty high. I'm poor and the token cost to build this with an actual good model (claude-code takes the w) honestly makes sweat. I doubt they weren't higher than me when I thought this out though.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -680,7 +680,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**"CLI-native AI that doesn't suck."** - Built by developers, for developers, with transparency and composability at its core.
+**"CLI-native AI that doesn't suck."**
 
-[⭐ Star this repo](https://github.com/your-org/wilk) if Wilk helps you build better software with AI!
+[⭐ Star this repo](https://github.com/your-org/wilk) if Wilk helps you save time with AI!
 
