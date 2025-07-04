@@ -350,9 +350,8 @@ Found 4 agents:
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────────┐
-│ >/prompt add code-review Review {{filename}} for {{review_type:security|   │
-│ performance|maintainability}} issues. Focus on {{language:javascript|      │
-│ typescript|python}} best practices. Report generated on {{current_date}}   │
+│ >/prompt add code-review Review {{filename}} for {{review_type}} issues.   │
+│ Focus on {{language}} best practices. Report generated on {{current_date}} │
 └────────────────────────────────────────────────────────────────────────────┘
 ✅ Added prompt: code-review
 
