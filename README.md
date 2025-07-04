@@ -179,22 +179,22 @@ Available agents: @my-assistant
 
 ### Core Concepts
 
-- **[Agent Management](./wilk-docs/architecture/agent-management.md)** - Creating, configuring, and versioning agents
-- **[Context Management](./wilk-docs/architecture/context-management.md)** - Memory, summarization, and context strategies
-- **[Session Management](./wilk-docs/cli-interface/sessions.md)** - Persistent conversations with thinking preservation
+- **[Agent Management](./docs/architecture/agent-management.md)** - Creating, configuring, and versioning agents
+- **[Context Management](./docs/architecture/context-management.md)** - Memory, summarization, and context strategies
+- **[Session Management](./docs/cli-interface/sessions.md)** - Persistent conversations with thinking preservation
 
 ### CLI Interface
 
-- **[Command Reference](./wilk-docs/cli-interface/commands.md)** - Complete command documentation (80+ commands)
-- **[Agent Syntax](./wilk-docs/cli-interface/agent-syntax.md)** - Agent interaction patterns and multi-agent coordination
-- **[Memory System](./wilk-docs/memory/)** - Project/user/agent persistent memory
+- **[Command Reference](./docs/cli-interface/commands.md)** - Complete command documentation (80+ commands)
+- **[Agent Syntax](./docs/cli-interface/agent-syntax.md)** - Agent interaction patterns and multi-agent coordination
+- **[Memory System](./docs/memory/)** - Project/user/agent persistent memory
 
 ### Advanced Features
 
-- **[Tool Integration](./wilk-docs/tools/)** - File operations, web search, code execution, RAG
-- **[MCP Integration](./wilk-docs/tools/mcp-integration.md)** - Model Context Protocol server management
-- **[Thinking Implementation](./wilk-docs/THINKING_TEXT_IMPLEMENTATION.md)** - Agent reasoning transparency
-- **[Task Execution Display](./wilk-docs/TASK_EXECUTION_DISPLAY.md)** - Hierarchical task visualization
+- **[Tool Integration](./docs/tools/)** - File operations, web search, code execution, RAG
+- **[MCP Integration](./docs/tools/mcp-integration.md)** - Model Context Protocol server management
+- **[Thinking Implementation](./docs/THINKING_TEXT_IMPLEMENTATION.md)** - Agent reasoning transparency
+- **[Task Execution Display](./docs/TASK_EXECUTION_DISPLAY.md)** - Hierarchical task visualization
 
 ## 🛠️ Development
 
