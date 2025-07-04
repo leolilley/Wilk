@@ -5,7 +5,7 @@
 
 I'd like to thank libre chat, claude code, gemini cli and cursor for bringing this totally not AI slop into existence with me in the drivers seat.
 
-Also the chances of someone else doing a better of this before me is pretty high. I'm poor and the token cost to build this with an actual good model (claude-code takes the w) honestly makes sweat. I doubt they weren't higher than me when I thought this out though.
+Also the chances of someone else doing a better of this before me is pretty high. I'm poor and the token cost to build this with an actual good model (claude-code takes the w) honestly makes sweat. I doubt they were higher than me when I thought this out though.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
